@@ -1,2 +1,2 @@
 # rename_os_files
-Program to rename files in the PC
+Just a Simple study program to rename files in the PC :)
